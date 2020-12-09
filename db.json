@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movies": [
+    {
+      "id": 1,
+      "title": "movie1",
+      "description": "desc1",
+      "director" : "director1",
+      "actors" : [
+        "ACTOR 11",
+        "ACTOR 12"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "movie2",
+      "description": "desc2",
+      "director" : "director2",
+      "actors" : [
+        "ACTOR 21",
+        "ACTOR 22"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "movie3",
+      "description": "typicode",
+      "director": "desc3",
+      "actors" : [
+        "ACTOR 31",
+        "ACTOR 32"
+      ]
+    }
+  ]
 }
