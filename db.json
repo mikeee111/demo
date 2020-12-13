@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": 0,
       "title": "movie1",
       "description": "desc1",
       "director" : "director1",
