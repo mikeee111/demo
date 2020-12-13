@@ -2,32 +2,32 @@
   "movies": [
     {
       "id": 0,
-      "title": "movie1",
-      "description": "desc1",
-      "director" : "director1",
+      "title": "The Tree of Life",
+      "description": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+      "director" : "Terrence Malick",
       "actors" : [
-        "ACTOR 11",
-        "ACTOR 12"
+        "Brad Pitt",
+        "Jessica Chastain"
       ]
     },
     {
       "id": 1,
-      "title": "movie2",
-      "description": "desc2",
-      "director" : "director2",
+      "title": "Whiplash",
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "director" : "Damien Chazelle",
       "actors" : [
-        "ACTOR 21",
-        "ACTOR 22"
+        "Miles Teller",
+        "J.K. Simmons"
       ]
     },
     {
       "id": 2,
-      "title": "movie3",
-      "description": "typicode",
-      "director": "desc3",
+      "title": "The Witch",
+      "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
+      "director": " Robert Eggers",
       "actors" : [
-        "ACTOR 31",
-        "ACTOR 32"
+        "Anya Taylor-Joy",
+        "Ralph Ineson"
       ]
     }
   ]
